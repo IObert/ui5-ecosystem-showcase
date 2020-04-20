@@ -1976,7 +1976,7 @@
     random-int "^2.0.1"
     slash "^3.0.0"
 
-"@ui5/logger@^1.0.1", "@ui5/logger@^1.0.2":
+"@ui5/logger@^1.0.1":
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/@ui5/logger/-/logger-1.0.2.tgz#140571df7feb090b03b38e8895c2283ba0a6f656"
   integrity sha512-k49q5D7EBk4vGzpM81KDNyGL4YaB12v8qYNqR7/5f4xoAksotf7h3VeAjCmJFSttEOnC9LNb9GYTzJAWJoCv7w==
@@ -4019,6 +4019,11 @@ dot-prop@^5.2.0:
   integrity sha512-uEUyaDKoSQ1M4Oq8l45hSE26SnTxL6snNnqvK/VWx5wJhmff5z0FUVJDKDanor/6w3kzE3i7XZOk+7wC0EXr1A==
   dependencies:
     is-obj "^2.0.0"
+
+dotenv@^8.2.0:
+  version "8.2.0"
+  resolved "https://registry.yarnpkg.com/dotenv/-/dotenv-8.2.0.tgz#97e619259ada750eea3e4ea3e26bceea5424b16a"
+  integrity sha512-8sJ78ElpbDJBHNeBzUbUVLsqKdccaa/BXF1uPTw3GrvQTBgrQrtObr2mUrE38vzYd8cEv+m/JBfDLioYcfXoaw==
 
 duplexer3@^0.1.4:
   version "0.1.4"

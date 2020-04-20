@@ -12,7 +12,7 @@
     "ncu-upgrade": "ncu -u"
   },
   "dependencies": {
-    "@ui5/logger": "^1.0.2",
+    "@ui5/logger": "^2.0.0",
     "connect-livereload": "^0.6.1",
     "livereload": "^0.9.1"
   },
